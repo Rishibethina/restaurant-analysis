@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "restaurant-analysis/about.html",
+    "href": "restaurant-analysis/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "blah blah"
+  },
+  {
+    "objectID": "restaurant-analysis/index.html",
+    "href": "restaurant-analysis/index.html",
+    "title": "What Makes Restaurants Thrive? How Success Factors Evolved from 2018-2023",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
